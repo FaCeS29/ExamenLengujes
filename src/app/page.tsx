@@ -49,7 +49,7 @@ export default function Home() {
             <div key={repo.id}>
               c
               <h2>
-                <a href={`https://github.com/DilanMS28/${repo.name}`} target="_blank" rel="noopener noreferrer">
+                <a href={`https://github.com/FaCeS29?tab=repositories${repo.name}`} target="_blank" rel="noopener noreferrer">
                   {repo.name}
                 </a>
               </h2>

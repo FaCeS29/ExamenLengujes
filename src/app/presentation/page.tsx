@@ -20,7 +20,7 @@ export default function presentacion() {
                     </div>
                 </div>
                 <div className="foto fotoAbout col-lg-6">
-    <Image src="./images/Logo.JPG" width={800} height={800} alt="Logo empresa"/>
+    <Image src="/Logo.JPG" width={800} height={800} alt="Logo empresa"/>
         </div> 
                 <div className="foto col-lg-6">
                 C:\Users\Farlen\Desktop\Lenguajes\Examen\Examen\ExamenLenguajes\.next\cache\images\Empre

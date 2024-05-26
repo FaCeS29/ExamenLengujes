@@ -1,11 +1,11 @@
-import ImgAbout from "../public/img/fotoPerfil.jpeg"
+
 import Image from 'next/image';
 export default function about(){
     return(
         <div className="about container">
             <main className="about d-flex">
             <div className="foto fotoAbout col-lg-5">
-    <Image src="/img/fotoPerfil.jpeg" width={600} height={600} alt="Imagen de perfil" />                 
+    <Image src="/fotoPerfil.jpg" width={600} height={600} alt="Imagen de perfil" />                 
 </div>
 
                 <div className="saludo saludoAbout col-lg-7">
