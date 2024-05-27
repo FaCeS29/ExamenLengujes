@@ -65,10 +65,9 @@ export default function Home() {
         <div className='container footer'>
           <nav className='d-block navf'>
             <a href="#presentacion">Home</a>
-            <a href="#about">About Me</a>
-            <a href="#callaction">Contact</a>
-            <a href="#skills">Skills</a>
-            <a href="#projects">Projects</a>
+            <a href="#about">Professional Profile</a>
+            <a href="#skills">Service Area</a>
+            <a href="#projects">Portfolio</a>
           </nav>
         </div>
       </footer>
