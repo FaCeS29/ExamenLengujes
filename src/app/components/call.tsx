@@ -3,7 +3,7 @@ import React from 'react';
 const CallComponent = () => {
   return (
     <div>
-      <p>¡Here we go, I&apos;m excited that we&apos;re moving forward!</p>
+      <p>¡Here we go, I am excited that were moving forward!</p>
     </div>
   );
 };
