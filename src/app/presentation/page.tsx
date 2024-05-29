@@ -20,7 +20,7 @@ export default function presentacion() {
                     </div>
                 </div>
                 <div className="foto fotoAbout col-lg-6">
-                    <Image src="/Logo.JPG" width={800} height={800} alt="Logo empresa" />
+                    <Image src="/Logo.jpg" width={800} height={800} alt="Logo empresa" />
                 </div>
 
             </main>
